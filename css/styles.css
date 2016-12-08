@@ -1,0 +1,127 @@
+header{
+	text-align: center;
+	font-size: 71;
+	font-weight: bolder;
+}
+
+body {
+	background-color:#D5D5D5;
+
+}
+
+ul {
+	list-style-type: none;
+    text-align: center;
+}
+
+ul li{
+
+	display: inline;
+	padding:10px;
+}
+
+
+.containermain{
+
+	display:flex;
+	  flex-flow: column;
+align-items:center;
+}
+
+.container{
+display:flex;
+flex-direction:row;
+	
+	 align-items: center;
+
+}
+ .pic1 {
+  
+ 	background-image: url(../images/flower.jpg);
+ 	background-size: cover;
+ 	width:600px;
+ 	height: 500px;
+ 	
+
+}
+
+.pic12{
+background-image: url(../images/leaf.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+
+
+}
+
+ .pic2 {
+
+ 	background-image: url(../images/bird.jpg);
+ 	background-size: cover;
+ 	width:600px;
+ 	height: 500px;
+
+
+
+}
+
+.pic22{
+	background-image: url(../images/pea.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+
+	
+}
+ .pic3 {
+
+ 	background-image: url(../images/horse.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+
+}
+
+.pic32{
+	background-image: url(../images/spiral.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+ }
+
+.pic33{
+	background-image: url(../images/leaf.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;	
+}
+
+ .pic4 {
+   	background-image: url(../images/mountain.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+
+
+
+}
+
+.pic42{
+	background-image: url(../images/horse.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+
+}
+.pic43{
+	background-image: url(../images/pea.jpg);
+ 	background-size: cover;
+ 	width:300px;
+ 	height: 500px;
+
+}
+.lastpic{
+	background-image: url(../images/flower.jpg);
+ 	background-size: cover;
+ 	width:900px;
+ 	height: 500px;
